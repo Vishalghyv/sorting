@@ -1,0 +1,21 @@
+Sorting
+1) Basic Frontend
+	navbar
+	buttons
+	change bar
+	frames
+	footer
+2) Functions for Sorting
+	5 type of Sorting or maybe going advance
+3) Adding Custamizable array functionality
+	Change size
+	Change range
+	Giving custom Array
+4) Adding Change time functionality
+	Slow
+	Medium
+	Fast
+5) Showing the results
+	Using time complexity concept
+6) Analyzing the Results and giving a way to download
+	Depends
